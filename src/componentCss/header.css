@@ -1,0 +1,39 @@
+.header {
+  width: 100%;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  padding: 10px 0;
+}
+
+.troll-face {
+  width: 50px;
+  margin-right: 30px;
+}
+.header-cont {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.react-course {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ffffff;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.meme-generator {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20.7482px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+}
